@@ -24,7 +24,7 @@ public class first{
      String fullName2 = scanner.nextLine();
      }
 }
- 
+ // completed only part 1 of the basic question
      
     
      
